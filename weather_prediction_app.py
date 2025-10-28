@@ -307,7 +307,7 @@ st.markdown("---")
 st.markdown("""
     <div style="text-align: center; color: #666;">
         <p>🤖 Powered by XGBoost Machine Learning Algorithm</p>
-        <p>Built with ❤️ using Streamlit | Data Science Project 2024</p>
+        <p>Built with ❤️ using Streamlit | Data Science Project 2025</p>
     </div>
 """, unsafe_allow_html=True)
 
